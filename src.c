@@ -5,9 +5,7 @@ int main(void)
 
 
 	printf("hello, world.\n");
-
-	
-	getchar();
+	printf("add font trice: 1");
 
 	return 0;
 }
